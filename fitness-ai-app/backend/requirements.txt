@@ -1,0 +1,11 @@
+Django
+djangorestframework
+redis
+django-redis
+anthropic
+python-dotenv
+gunicorn
+django-cors-headers
+celery
+Pillow
+cryptography
